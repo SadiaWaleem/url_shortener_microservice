@@ -15,8 +15,11 @@ POST https://button-stick.glitch.me/api/shorturl/new - body (urlencoded) :  url=
 
 #### Usage:
 
-https://button-stick.glitch.me/api/shorturl/3
+1. https://button-stick.glitch.me/api/shorturl/1
+2. https://button-stick.glitch.me/api/shorturl/2
+3. https://button-stick.glitch.me/api/shorturl/3
 
 #### Will redirect to:
-
-http://forum.freecodecamp.com
+1. Will redirect to https://www.google.com
+2. Will redirect to https://button-stick.glitch.me
+3. will redirect to https://glitch.com/~season-jewel
